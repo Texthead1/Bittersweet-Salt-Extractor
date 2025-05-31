@@ -5,6 +5,9 @@ Note that distribution of the contents of the `salt.txt` may be considered pirac
 
 Do not distribute the output contents either.
 
+## Compatibility
+The application is built for Windows, however it should also function correctly through all Wine compatibility layers on other operating systems. Tested with CrossOver on macOS.
+
 ## Building
 The solution can be built with Visual Studio, personally tested with Visual Studio 2022.
 
