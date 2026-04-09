@@ -1,7 +1,7 @@
 # Bittersweet Salt Extractor
 BSSE is a simple tool to extract the salt required for Skylanders cryptography. Specifically, the output file is required for the encrypting/decrypting of Skylanders figure data.
 
-Note that distribution of the contents of the `salt.txt` may be considered piracy and thus is not included with select tools, such as [Runes](https://github.com/NefariousTechSupport/Runes) or [Riches](https://github.com/Texthead1/Riches); both of these tools require the output `salt.txt`.
+Note that distribution of the contents of the `salt.txt` may be considered piracy and thus is not included with select tools, [Riches](https://github.com/Texthead1/Riches), [Revolve](https://github.com/Texthead1/Revolve), or select older versions of [Runes](https://github.com/NefariousTechSupport/Runes) (such as [this version](https://github.com/NefariousTechSupport/Runes/tree/6a51df7ef767d57720e98ed697e08f607291a55f)); these tools require the output `salt.txt`.
 
 Do not distribute the output contents either.
 
